@@ -23,7 +23,7 @@ import model.Film;
 import utils.FilmDAO;
 import utils.FilmUtils;
 
-
+@Api(name = "all-films")
 @Path("all-films")
 public class FilmRestApi {
 	

@@ -52,7 +52,7 @@
         You must replace YOUR_PROJECT_ID with your
         Google Cloud Project Id
       -->
-      <hostname>films-rest-api.appspot.com</hostname>
+      <hostname>zeta-essence-338615.appspot.com</hostname>
     </configuration>
   </plugin>
     </plugins>
